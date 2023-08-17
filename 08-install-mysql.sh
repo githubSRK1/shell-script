@@ -12,5 +12,5 @@ then
 #     echo "INFO :: You are root user"
 fi
 
-yum install git -y
+yum install mysql -y
 
